@@ -14,6 +14,8 @@ The system is fully modular, built around a core "body" of two parallel T-slot a
 
 ## MOGI MK4: The Current Standard
 
+![alt text](images/mogi_mk4.jpg)
+
 MOGI MK4 is the latest proof-of-concept build. It represents a complete, fully functional minimalist guitar and serves as the reference model for this repository. 
 
 ### Core Design Architecture
