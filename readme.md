@@ -1,5 +1,5 @@
 # MOGI: A Minimalist Modular Guitar Platform
-
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ## Concept and Philosophy
 
 MOGI is a minimalist, DIY-friendly electric guitar platform. The core philosophy is to build a highly functional, "bodyless" instrument using readily available, off-the-shelf materials. 
